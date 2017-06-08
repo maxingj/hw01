@@ -201,7 +201,7 @@ Although you cannot erase the history, you can update the submission.
 
 On RStudio, go to the Git pane. Check the modified file and commit. Then click **push**. 
 
-## Step 10. Receive comments, update, and merge
+## Step 10. Receive comments, update, and merge {-}
 
 Git is used for recording. GitHub is a communication platform based on Git.
 The lectuer exploits this communication feature to make your solutions better. 
@@ -216,7 +216,7 @@ Please do as requested. After modification on the same branch, you can
 simply commit and push on RStudio. The Pull Request will be updated
 automatically.
 
-## Step 11. Receive suggested solution
+## Step 11. Receive suggested solution {-}
 
 Those who submit a homework assignment will be invited to a repository of mine or teaching assistant Beck's. The repository will contain a suggested solution to the assignment. 
 
