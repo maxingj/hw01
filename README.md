@@ -11,7 +11,7 @@ Due: 2017/06/14 18:00
 
 ## Assignment
 
-Read `problem.pdf` and follow the instructions to edit and knit `solution.Rmd`. Then open a Pull Request by the deadline. 
+Read [`problem.pdf`](https://rawgit.com/rokko-ma17q2/hw01/master/problem.pdf) and follow the instructions to edit and knit `solution.Rmd`. Then open a Pull Request by the deadline. 
 
 ## Need help?
 
